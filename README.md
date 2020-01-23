@@ -1,4 +1,6 @@
-# todo
+# ToDo Application using VueJS with Vuex
+
+A sample application using the JSON Placeholder API.
 
 ## Project setup
 ```
